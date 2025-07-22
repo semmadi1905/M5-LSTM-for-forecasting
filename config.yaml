@@ -1,0 +1,8 @@
+model_level: 10
+epochs: 50
+model_type: "cnn_lstm"
+num_threads: 4
+random_state: 42
+data_path: "data"
+n_training: 28
+n_forecast: 28
