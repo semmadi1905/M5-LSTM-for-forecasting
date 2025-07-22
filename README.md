@@ -3,6 +3,7 @@
 This repository contains code and configurations to train and visualize time series forecasting models for the M5 dataset.
 
 ## 📁 Project Structure
+<img width="146" height="187" alt="image" src="https://github.com/user-attachments/assets/894435c6-063e-490e-8aff-80ea31dcb362" />
 
 project/
 │
@@ -43,6 +44,7 @@ Step 6: Explore the Results
 Use dropdown menus to select model levels
 Zoom and pan to inspect forecasted vs. actual time series plots
 
+<img width="309" height="129" alt="image" src="https://github.com/user-attachments/assets/c2933bfb-f833-406d-b462-f50136ae3909" />
 
 
 📝 Notes
